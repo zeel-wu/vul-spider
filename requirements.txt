@@ -1,0 +1,7 @@
+future==0.18.2
+gevent==21.1.2
+jsonpath==0.82
+lxml==4.6.3
+openpyxl==3.0.7
+redisbloom==0.4.0
+sqlalchemy==1.4.7
